@@ -9,7 +9,7 @@ A CLI to download soundcloud playlists
 yarn start <url>
 ```
 
-Tracks are saved to `downloads/tracks`.
+Tracks are saved to `downloads/tracks` and are tagged with ID3 information based on the track info.
 
 ## Examples
 
