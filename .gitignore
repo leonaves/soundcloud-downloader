@@ -1,6 +1,6 @@
 .DS_Store
-tracks/*
-!tracks/.gitkeep
-artwork/*
-!artwork/.gitkeep
+downloads/tracks/*
+!downloads/tracks/.gitkeep
+downloads/artwork/*
+!downloads/artwork/.gitkeep
 node_modules
