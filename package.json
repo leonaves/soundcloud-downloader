@@ -1,0 +1,15 @@
+{
+  "name": "soundcloud-downloader",
+  "version": "1.0.0",
+  "description": "Download songs from soundcloud.",
+  "main": "index.js",
+  "author": "Leon Aves <me@leonaves.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-id3": "^0.1.14"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
